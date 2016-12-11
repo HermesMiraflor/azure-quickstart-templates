@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-USER"
+      "value": "hermes"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Zaq12wsx021489"
     },
     "dnsLabelPrefix": {
       "value": "GEN-UNIQUE"
